@@ -1,0 +1,2 @@
+# mavenmultimodule
+mavenmultimoduletemplate
